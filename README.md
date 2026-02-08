@@ -47,8 +47,7 @@ pip install -r requirements.txt
 ## 1) Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/discord-2fa-bot.git
-cd discord-2fa-bot
+git clone https://github.com/inset777/2fa-discordbot.git
 ```
 
 ---
