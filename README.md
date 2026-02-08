@@ -4,6 +4,7 @@ A lightweight Discord bot that generates and sends one-time 2FA-style codes to u
 # Discord 2FA DM Bot
 
 A lightweight Python Discord bot that generates and sends one-time verification (2FA-style) codes to users via direct message using their Discord ID.
+This is the public version of the 2fa discord bot
 
 Built for:
 - authentication workflows  
